@@ -9,7 +9,7 @@ public class Home {
 		botonesHome F = new botonesHome();
 		
 		
-        System.out.println("mi apellido es: " + F.Nombre); 
+        System.out.println("hola mi apellido es: " + F.Nombre); 
 
         System.out.println("mi apellido es: " + F.Apellido); 
 
